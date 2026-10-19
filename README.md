@@ -28,3 +28,11 @@ Built with multi-threaded efficiency and recursive folder inspection, it is the 
 
 - **Python 3.x** (with standard `tkinter` library included).
 - **Cross-platform**: Optimized for Windows with legacy support for macOS and Linux file-handling.
+## License & Disclaimer / Licenza e Clausola di Esclusione Responsabilità
+
+This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author (Roby77) be liable for any claim, damages, or other liability, including but not limited to data loss, arising from the use of this software.
+
+Questo software è fornito "così com'è", senza alcuna garanzia esplicita o implicita. In nessun caso l'autore (Roby77) potrà essere ritenuto responsabile per qualsiasi reclamo, danno o altra responsabilità, inclusa la perdita di dati, derivante dall'uso di questo software.
+
+- **FFmpeg/FFprobe** is a trademark of Fabrice Bellard (and the FFmpeg developers) and is not bundled with this application.
+- **FFmpeg/FFprobe** è un marchio registrato di Fabrice Bellard (e degli sviluppatori di FFmpeg) e non è incluso in questa applicazione.
