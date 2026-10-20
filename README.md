@@ -2,7 +2,7 @@
 Compare and sync your files and directory
 # File/Dir Compare & Sync v4.65 (by Roby 77)
 
-**File/Dir Compare & Sync** is a professional, high-performance Python desktop application with a modern graphical user interface (GUI) designed to compare, analyze, and synchronize local directories or network shares.
+**File/Dir Compare & Sync** is a professional, high-performance Python desktop application created with AI with a modern graphical user interface (GUI) designed to compare, analyze, and synchronize local directories or network shares.
 
 Built with multi-threaded efficiency and recursive folder inspection, it is the perfect tool for backing up large media libraries, managing file shares, and tracking down differences between folders without risking data loss.
 
