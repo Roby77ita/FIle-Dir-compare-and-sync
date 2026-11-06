@@ -11,8 +11,7 @@ A powerful **file synchronization** and **directory comparison** tool for Window
 Built with multi-threaded efficiency and recursive folder inspection, it is the perfect tool for backing up large media libraries, managing file shares, and tracking down differences between folders without risking data loss.
 
 ## 📸 Screenshots
-*(Sostituisci questo testo con un'immagine del tuo programma. Trascina un'immagine nel file README su GitHub per caricarla automaticamente e generare il link!)*
-![File/Dir Compare & Sync Interface](link_alla_tua_immagine_qui.png)
+<img width="1912" height="1131" alt="screen" src="https://github.com/user-attachments/assets/3c6167b7-9feb-4417-8a64-dad2ffae7f14" />
 
 ## 🚀 Key Features
 
@@ -54,5 +53,5 @@ This software is provided "as is", without warranty of any kind, express or impl
 
 Questo software è fornito "così com'è", senza alcuna garanzia esplicita o implicita. In nessun caso l'autore (Roby77) potrà essere ritenuto responsabile per qualsiasi reclamo, danno o altra responsabilità, inclusa la perdita di dati, derivante dall'uso di questo software.
 
-<img width="1912" height="1131" alt="screen" src="https://github.com/user-attachments/assets/3c6167b7-9feb-4417-8a64-dad2ffae7f14" />
+
 
