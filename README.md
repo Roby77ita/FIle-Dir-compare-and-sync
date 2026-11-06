@@ -39,3 +39,20 @@ Built with multi-threaded efficiency and recursive folder inspection, it is the 
 3. Open your terminal or command prompt and run the application:
    ```bash
    python File_Dir_Compare_Sync_5_54.py
+4. How to use: Select your Source folder (Left) and Destination folder (Right), click "Confronta" (Compare) to view differences, and then use "Copia modifiche" (Copy changes) or "Sincronizza 1 → 2" (Sync) to apply your changes safely.
+
+📋 Requirements
+Python 3.x (with standard tkinter library included).
+
+Cross-platform: Optimized for Windows with legacy support for macOS and Linux file-handling.
+
+🤝 Contributing & Support
+If you encounter any bugs or have suggestions, please open an Issue.
+
+📄 License & Disclaimer / Licenza e Clausola di Esclusione Responsabilità
+This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author (Roby77) be liable for any claim, damages, or other liability, including but not limited to data loss, arising from the use of this software.
+
+Questo software è fornito "così com'è", senza alcuna garanzia esplicita o implicita. In nessun caso l'autore (Roby77) potrà essere ritenuto responsabile per qualsiasi reclamo, danno o altra responsabilità, inclusa la perdita di dati, derivante dall'uso di questo software.
+
+<img width="1912" height="1131" alt="screen" src="https://github.com/user-attachments/assets/3c6167b7-9feb-4417-8a64-dad2ffae7f14" />
+
