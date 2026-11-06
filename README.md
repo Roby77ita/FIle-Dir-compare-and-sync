@@ -1,12 +1,20 @@
-# FIle-Dir-compare-and-sync
-Compare and sync your files and directory
 # File/Dir Compare & Sync (by Roby 77)
 
-**File/Dir Compare & Sync** is a professional, high-performance Python desktop application created with AI with a modern graphical user interface (GUI) designed to compare, analyze, and synchronize local directories or network shares.
+[![Version](https://img.shields.io/badge/version-5.54-blue.svg)](https://github.com/Roby77ita/FIle-Dir-compare-and-sync/releases)
+[![Python](https://img.shields.io/badge/python-3.x-yellow.svg)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)]()
+
+A powerful **file synchronization** and **directory comparison** tool for Windows, perfect for **backup** and **NAS management**.
+
+**File/Dir Compare & Sync** is a professional, high-performance Python desktop application with a modern graphical user interface (GUI) designed to compare, analyze, and synchronize local directories or network shares.
 
 Built with multi-threaded efficiency and recursive folder inspection, it is the perfect tool for backing up large media libraries, managing file shares, and tracking down differences between folders without risking data loss.
 
-### 🚀 Key Features
+## 📸 Screenshots
+*(Sostituisci questo testo con un'immagine del tuo programma. Trascina un'immagine nel file README su GitHub per caricarla automaticamente e generare il link!)*
+![File/Dir Compare & Sync Interface](link_alla_tua_immagine_qui.png)
+
+## 🚀 Key Features
 
 - **Parallel & Fast Directory Scanning**: Scans source and destination paths efficiently. If folders are located on separate physical volumes, the application forces parallel scanning to maximize performance on modern hardware.
 - **Intuitive Visual Grid & Comparison Legend**: Displays a side-by-side folder structure highlighting file status at a glance:
@@ -24,15 +32,10 @@ Built with multi-threaded efficiency and recursive folder inspection, it is the 
 - **Modern Look with Custom Themes**: Features adjustable GUI layouts with multiple dark/light theme accents (Modern, Dark, Blue, Purple, Dark Gray) and crisp text rendering for HiDPI/4K displays.
 - **Profile Management**: Save and recall named configurations for your frequent source and destination combinations with a single click.
 
-### 🛠️ Requirements
+## 🛠️ Installation & Usage
 
-- **Python 3.x** (with standard `tkinter` library included).
-- **Cross-platform**: Optimized for Windows with legacy support for macOS and Linux file-handling.
-## License & Disclaimer / Licenza e Clausola di Esclusione Responsabilità
-
-This software is provided "as is", without warranty of any kind, express or implied. In no event shall the author (Roby77) be liable for any claim, damages, or other liability, including but not limited to data loss, arising from the use of this software.
-
-Questo software è fornito "così com'è", senza alcuna garanzia esplicita o implicita. In nessun caso l'autore (Roby77) potrà essere ritenuto responsabile per qualsiasi reclamo, danno o altra responsabilità, inclusa la perdita di dati, derivante dall'uso di questo software.
-
-- **FFmpeg/FFprobe** is a trademark of Fabrice Bellard (and the FFmpeg developers) and is not bundled with this application.
-- **FFmpeg/FFprobe** è un marchio registrato di Fabrice Bellard (e degli sviluppatori di FFmpeg) e non è incluso in questa applicazione.
+1. Ensure you have **Python 3.x** installed on your system (with the standard `tkinter` library included).
+2. Go to the [Releases](https://github.com/Roby77ita/FIle-Dir-compare-and-sync/releases) page and download the latest `.py` file.
+3. Open your terminal or command prompt and run the application:
+   ```bash
+   python File_Dir_Compare_Sync_5_54.py
